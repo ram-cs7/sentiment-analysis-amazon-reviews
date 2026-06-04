@@ -41,7 +41,7 @@ This project performs sentiment analysis on Amazon product reviews, classifying 
 Open a terminal or command prompt and run the following commands to clone the repository:
 
 ```bash
-git clone https://github.com/sachi143/sentiment-analysis-amazon-reviews.git
+git clone https://github.com/ram-cs7/sentiment-analysis-amazon-reviews.git
 cd sentiment-analysis-amazon-reviews
 ```
 
